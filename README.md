@@ -10,5 +10,5 @@ Complemento ao link anterior - [MARKDOWN](https://www.markdownguide.org/basic-sy
 
 [Documentação](https://docs.github.com/pt) Completa do GitHub
 
-[Slides do Desafio DIO](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
+[Slides do Desafio DIO](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view) - Esses slides também se encontram na pasta do repositório.
 
